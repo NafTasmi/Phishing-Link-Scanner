@@ -166,6 +166,3 @@ Contributions are welcome! Please follow these steps:
 ⚠️ **Disclaimer**: This tool is for educational purposes only. It may produce false positives/negatives. Always verify suspicious links through multiple sources before taking action.
 
 
----
-
-*⭐ If you found this project useful, please consider giving it a star!*
